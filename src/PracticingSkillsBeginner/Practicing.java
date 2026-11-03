@@ -1,3 +1,5 @@
+package PracticingSkillsBeginner;
+
 import java.util.Scanner;
 
 public class Practicing {
