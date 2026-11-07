@@ -11,5 +11,11 @@ public class Practicing {
         int HowGoodDayRate = scanner.nextInt();
 
         System.out.println("You have rated your day out of " + HowGoodDayRate + "/10");
+
+        System.out.println("What have you done today?");
+
+        String WhatHaveYouDone = scanner.nextLine();
+
+        System.out.println("You have done: " + WhatHaveYouDone);
     }
 }
