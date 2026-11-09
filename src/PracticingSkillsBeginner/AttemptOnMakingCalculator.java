@@ -24,12 +24,9 @@ public class AttemptOnMakingCalculator {
         System.out.println("Subtraction: " + subtraction);
 
         int multiplication = a * b;
-        System.out.println("Multiplication: " + multiplication);
+        System.out.println("Multiplication: " + multiplication);;
 
-        double c = a;
-        double d = b;
-
-        double division = c / d;
+        double division = a / b;
         System.out.println("Division: " + division);
 
     }
